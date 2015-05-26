@@ -14,7 +14,7 @@ This is probably the most common application for Bumblebee - writing a nested li
 
 **BBData:** [BBData] This is a BBData input. Please see below for how this node can be set up. 
 
-####Setting Up BB Data Node:
+### 2.1.2 Setting Up BB Data Node
 
 ![](bbData.png)
 
