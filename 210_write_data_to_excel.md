@@ -36,3 +36,9 @@ You can also achieve this functionality using a single BB Data node like so:
 
 ![](bbData3.png)
 
+### 2.2.3 Additional Example
+
+You can also combine BB Data nodes in this fashion to write not only to multiple sheets but also to the same sheet but from a different origin. 
+
+![](writeExcel2.png)
+
