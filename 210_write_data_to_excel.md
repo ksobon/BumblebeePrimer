@@ -1,7 +1,5 @@
 # 2.1.0 Write Data to Excel
 
-### 2.1.1 Write a Single Column or Row of Data to Excel
-
 ### 2.1.2 Write Multiple Columns of Data to Excel
 
 This is probably the most common application for Bumblebee - writing a nested list of data to multiple columns or rows to an Excel spreadsheet. Here's how its done: 
@@ -17,4 +15,6 @@ This is probably the most common application for Bumblebee - writing a nested li
 **BBData:** [BBData] This is a BBData input. Please see below for how this node can be set up. 
 
 ####Setting Up BB Data Node:
+
+
 
