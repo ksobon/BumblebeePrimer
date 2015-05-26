@@ -14,7 +14,7 @@ This is probably the most common application for Bumblebee - writing a nested li
 
 **BBData:** [BBData] This is a BBData input. Please see below for how this node can be set up. 
 
-### 2.1.2 Setting Up BB Data Node
+### 2.2.1 Setting Up BB Data Node
 
 ![](bbData.png)
 
@@ -25,4 +25,14 @@ For any of the inputs please make sure that you always match their data types. W
 **Origin:** [String or List[String]] This is origin cell that data writing will start at. By default this input is specified at A1 but it can be changed to begin writing from any other location.
 
 **Data:** [List[] or Nested List[[]]] This is data that you wish to write to Excel. For now Bumblebee was only tested writing Numbers and Strings. 
+
+### 2.2.2 Combining BB Data Nodes to Write Multiple Sheets
+
+Bumblebee has ability to write more than one sheet at the time. You can generate a single BB Data node for each sheet and then use List.Create to combine them into a list of BB Data objects that can be used as an input to Write Excel node. 
+
+![](bbData2.png)
+
+You can also achieve this functionality using a single BB Data node like so: 
+
+![](bbData3.png)
 
