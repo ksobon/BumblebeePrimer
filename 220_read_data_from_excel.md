@@ -67,9 +67,14 @@ Please make sure that if you are specifying multiple sheet names (List[]) and mu
 ![](Tip2.png)
 
 <blockquote>
-<p><b>Tip:</b> You can use a Cell Index node which is also part of Bumblebee package to convert an excel address from string format A1 to index format [1,1] <p>
+<p><b>Tip:</b> You can use a Cell Index node which is also part of Bumblebee package to convert an excel address from string format "A1" to index format [1,1] <p>
 </blockquote>
 
 ![](Tip3.png)
 
+<blockquote>
+<p><b>Tip:</b> While reading multiple sheets from an Excel file it might be a time saver to be able to query up all sheet names that file contains without having to open it first. Please use Get Worksheet Names node to do just that, but DO NOT use its output to set up Read Excel node as it will cause a conflict. <p>
+</blockquote>
+
+![](Tip4.png)
 
