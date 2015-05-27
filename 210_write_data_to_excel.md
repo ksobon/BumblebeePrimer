@@ -44,10 +44,4 @@ You can also combine BB Data nodes in this fashion to write not only to multiple
 
 ![](writeExcel2.png)
 
-<blockquote>
-<p>sasd
-
-<p>no shitton
-
-</blockquote>
 
