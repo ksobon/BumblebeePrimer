@@ -67,7 +67,6 @@ Please make sure that if you are specifying multiple sheet names (List[]) and mu
 
 &nbsp;
 <hr><hr>
-&nbsp;
 ### Tips and Tricks
 
 <blockquote>
