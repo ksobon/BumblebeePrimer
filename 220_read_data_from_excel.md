@@ -23,5 +23,9 @@ You can read Excel files in a number of different ways using Bumblebee. You can 
 
 ![](readExcel2.png)
 
+In this example we are setting the Origin to be at A6 so data will only be read from that point out since Extent was unspecified. 
+
+![](readExcel1.png)
+
 
 </blockquote>
