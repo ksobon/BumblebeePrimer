@@ -54,4 +54,11 @@ In this example we are setting the Extent only effectively creating a range that
 
 ![](tip1.png)
 
+### 2.2.6 Read Multiple Sheets - From Specific Origin
+
+Please make sure that if you are specifying multiple sheet names (List[]) and multiple origins/extents to match their lengths. For example if I have a List["FirstSheet","SecondSheet"] and you want to specify a different origin for each sheet to do it like so: List["A1","B1"]. You can of course leave the origin/extent inputs blank and defaults discussed earlier will apply. Here's an example:
+
+![](readExcel8.png)
+
+
 
