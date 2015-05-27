@@ -19,7 +19,6 @@ You can read Excel files in a number of different ways using Bumblebee. You can 
 
 <p><b> Extent:</b> [String or List[String]] Leave this input blank and default extent is set to read the whole sheet. You can either supply an excel address format: "A13" or a cell index format List[1,13] to constrain the extent of document that you want to read.</p>
 </blockquote>
-<hr>
 
 ### 2.2.2 Read Single Sheet - From Specific Origin
 
