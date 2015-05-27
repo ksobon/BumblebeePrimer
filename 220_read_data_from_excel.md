@@ -49,6 +49,9 @@ In this example we are setting the Extent only effectively creating a range that
 ![](readExcel7.png)
 
 <blockquote>
-<p><b>Tip:</b> You can create the list of sheet names in veriaty of ways. Here's another one:<p>
+<p><b>Tip:</b> You can create the list of sheet names in veriaty of ways. I personally prefer Code Blocks but its not a must and other ways will work just fine. Here's another one:<p>
 </blockquote>
+
 ![](tip1.png)
+
+
