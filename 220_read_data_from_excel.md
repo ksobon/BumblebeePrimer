@@ -28,5 +28,10 @@ In this example we are setting the Origin to be at A6 so data will only be read 
 
 ![](readExcel1.png)
 
+### 2.2.3 Read Single Sheet - Specific Range Only
 
-</blockquote>
+![](readExcel3.png)
+
+In this example we are setting both the Origin and Extent effectively creating a Range of data that we want to read.
+
+![](readExcel4.png)
