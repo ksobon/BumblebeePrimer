@@ -35,3 +35,12 @@ In this example we are setting the Origin to be at A6 so data will only be read 
 In this example we are setting both the Origin and Extent effectively creating a Range of data that we want to read.
 
 ![](readExcel4.png)
+
+### 2.2.4 Read Single Sheet - From Specific Extent
+
+![](readExcel5.png)
+
+In this example we are setting the Extent only effectively creating a range that starts at the origin of the document: A1 and extends to our specified extent input. 
+
+![](readExcel6.png)
+
