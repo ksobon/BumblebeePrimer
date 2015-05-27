@@ -61,9 +61,15 @@ Please make sure that if you are specifying multiple sheet names (List[]) and mu
 ![](readExcel8.png)
 
 <blockquote>
-<p><b>Tip:</b> As you can see in the image above there is bunch of elements returned that are "Null". This is perfectly normal as all empty cells will return a Null value. You can remove all Null values using a seperate utility that can be found in Archi-lab (Grimshaw) Package. Please see below: <p>
+<p><b>Tip:</b> As you can see in the image above there is bunch of elements returned that are "Null". This is perfectly normal as all empty cells will return a Null value. You can remove all Null values using a seperate utility (Clear List) that can be found in Archi-lab (Grimshaw) Package. Please see below: <p>
 </blockquote>
 
 ![](Tip2.png)
+
+<blockquote>
+<p><b>Tip:</b> You can use a Cell Index node which is also part of Bumblebee package to convert an excel address from string format A1 to index format [1,1] <p>
+</blockquote>
+
+![](Tip3.png)
 
 
