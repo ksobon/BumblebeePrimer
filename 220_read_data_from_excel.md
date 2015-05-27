@@ -1,10 +1,8 @@
 # 2.2.0 Read Data from Excel
 
-### 2.2.1 Read Excel
+### 2.2.1 Read Single Sheet - Entire Content
 
 You can read Excel files in a number of different ways using Bumblebee. You can read an entire sheet contents, read from specified origin point, read only a specific range of data or do all of the former but for multiple sheets.
-
-
 
 ![](readExcel.png)
 
@@ -20,5 +18,10 @@ You can read Excel files in a number of different ways using Bumblebee. You can 
 <p><b> Origin:</b> [String or List[String]] Leave this input blank and default origin is set to start at A1. You can either supply an excel address format: "A1" or a cell index format List[1,1] to set the origin cell from which data will be read </p>
 
 <p><b> Extent:</b> [String or List[String]] Leave this input blank and default extent is set to read the whole sheet. You can either supply an excel address format: "A13" or a cell index format List[1,13] to constrain the extent of document that you want to read.</p>
+
+### 2.2.2 Read Single Sheet - From Specific Origin
+
+![](readExcel2.png)
+
 
 </blockquote>
