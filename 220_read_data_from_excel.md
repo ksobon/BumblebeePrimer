@@ -73,7 +73,7 @@ Please make sure that if you are specifying multiple sheet names (List[]) and mu
 ![](Tip3.png)
 
 <blockquote>
-<p><b>Tip:</b> While reading multiple sheets from an Excel file it might be a time saver to be able to query up all sheet names that file contains without having to open it first. Please use Get Worksheet Names node to do just that, but DO NOT use its output to set up Read Excel node as it will cause a conflict. <p>
+<p><b>Tip:</b> While reading multiple sheets from an Excel file it might be a time saver to be able to query up all sheet names that file contains without having to open it first. Please use Get Worksheet Names node to do just that, but <b>DO NOT</b> use its output to set up Read Excel node as it will cause a conflict. <p>
 </blockquote>
 
 ![](Tip4.png)
