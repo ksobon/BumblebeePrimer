@@ -53,6 +53,11 @@ While defining Graphic Style you can chose to either override one or all of the 
 <p><b> Opacity:</b> [Integer] Currently unavailable </p>
 </blockquote>
 
+&nbsp;
+<blockquote>
+<p><b>Tip:</b> When defining Pattern Color one has to specify a background color. Pattern color will only "take" when Background is defined. I usually define background to be White. 
+</blockquote>
+
 ### 4.2.4 Define Text Style
 
 ![](textStyle.png)
