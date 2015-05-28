@@ -91,3 +91,11 @@ While defining Graphic Style you can chose to either override one or all of the 
 This is what the final result will look like:
 
 ![](cellValue8.png)
+
+You can also stack more than one Format Condition on top of each other and formatting will be applied based on order that they were added in case that both Format Conditions evaluate to True. Here's an example:
+
+![](cellValue9.png)
+
+This is what the final result will look like:
+
+![](cellValue10.png)
