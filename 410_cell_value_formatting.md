@@ -83,3 +83,11 @@ While defining Graphic Style you can chose to either override one or all of the 
 <p><b> LineWeightType:</b> [Line Weight Type] Line weights can only be one of the following types: Hairline, Medium, Thick or Think.</p>
 <p><b> LineColor:</b> [Color] If you wish to specify line color use Color.ByARGB node to do so.</p>
 </blockquote>
+
+### 4.2.6 Putting it All Together...
+
+![](cellValue6.png)
+
+This is what the final result will look like:
+
+![](cellValue8.png)
