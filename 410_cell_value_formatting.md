@@ -31,11 +31,40 @@ Once we have our condition defined we can move on to defining Graphic Style that
 
 ### 4.2.2 Define Graphic Style
 
+While defining Graphic Style you can chose to either override one or all of the available styles. If you wish to not override Border Style then just leave that input empty.
+
 ![](cellValue4.png)
 
 <blockquote>
 <p><b> FillStyle:</b> [Fill Style] If you supply a fill style to this input it will be overriden to whatever fill style settings were defined for that fill style.</p>
-<p><b> TextStyle:</b> [Text Style] If you supply a text style to this input it will be overriden to whatever text style settings were defined for that text style.</p>
-<p><b> BorderStyle:</b> [Border Style] If you supply a border style to this input it will be overriden to whatever border style settings were defined for that text style.</p>
+<p><b> TextStyle:</b> [Text Style] If you supply a text style to this input it will be overridden to whatever text style settings were defined for that text style.</p>
+<p><b> BorderStyle:</b> [Border Style] If you supply a border style to this input it will be overridden to whatever border style settings were defined for that text style.</p>
 </blockquote>
 
+### 4.2.3 Define Fill Style
+
+![](cellValue5.png)
+
+<blockquote>
+<p><b> PatternType:</b> [Pattern Type] If you wish to apply fill pattern to a cell use this input to specify it.</p>
+<p><b> BackgroundColor:</b> [Color] If you wish to specify a background color in a cell use Color.ByARGB node to do so.</p>
+<p><b> PatternColor:</b> [Color] If you wish to specify pattern color use Color.ByARGB node to do so.</p>
+<p><b> Bevel:</b> [Bevel Type] Currently unavailable </p>
+<p><b> Opacity:</b> [Integer] Currently unavailable </p>
+</blockquote>
+
+### 4.2.4 Define Text Style
+
+![](textStyle.png)
+
+<blockquote>
+<p><b> Name:</b> [String] If you wish to apply fill pattern to a cell use this input to specify it.</p>
+<p><b> Size:</b> [String] If you wish to specify a background color in a cell use Color.ByARGB node to do so.</p>
+<p><b> FontColor:</b> [Color] If you wish to specify pattern color use Color.ByARGB node to do so.</p>
+<p><b> HorizontalAlignType:</b> [Horizontal Align Type] Currently unavailable </p>
+<p><b> VerticalAlignType:</b> [Vertical Align Type] Currently unavailable </p>
+<p><b> Bold:</b> [Boolean] Currently unavailable </p>
+<p><b> Italic:</b> [Boolean] Currently unavailable </p>
+<p><b> Underline:</b> [Boolean] Currently unavailable </p>
+<p><b> Strikethrough:</b> [Boolean] Currently unavailable </p>
+</blockquote>
