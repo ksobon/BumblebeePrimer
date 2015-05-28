@@ -3,7 +3,7 @@
 Conditional Formatting in Excel can be a really powerful tool. If you ever wanted to use Excel as a model checking or model management tool on Revit projects then this will come really handy for you. I use it to extract all kinds of data and parameters and then apply conditional formatting to it, to quickly identify mistakes and imissions. Conditional Formatting requires 4 main steps to be defined. Here they are:
 
 ![](overview.png)
-
+<blockquote>
 1. Choose Conditional Formatting Condition. This can be a Cell Value, Expression or 2/3 Color Gradient Scheme. 
 
 2. Define rules that will govern whether Graphic Style will be applied to a cell or not. 
@@ -11,7 +11,7 @@ Conditional Formatting in Excel can be a really powerful tool. If you ever wante
 3. Create a Graphic Style that will be applied to a cell in case that cell evaluates to True based on formatting rule. 
 
 4. Apply it to Excel Document/Range.
-
+</blockquote>
 
 Let's go over these four steps using Cell Value Formatting Condition as an example. 
 
