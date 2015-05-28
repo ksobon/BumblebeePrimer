@@ -99,3 +99,11 @@ You can also stack more than one Format Condition on top of each other and forma
 This is what the final result will look like:
 
 ![](cellValue10.png)
+
+You can also apply different Format Conditions to more than one range at the time while maintaining ability to add more than one Format Condition per Range. Just create lists of lists of Format Conditions and you will be good to go. 
+
+![](cellValue11.png)
+
+This is what the final result will look like:
+
+![](cellValue12.png)
