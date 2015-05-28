@@ -1,6 +1,8 @@
 # 4.1.0 Conditional Formatting Overview
 
-Conditional Formatting in Excel can be a really powerful tool. If you ever wanted to use Excel as a model checking or model management tool on Revit projects then this will come really handy for you. I use it to extract all kinds of data and parameters and then apply conditional formatting to it to quickly identify mistakes and imissions. Let's first have a look at how the main conditional format node is set up and we can go from there:
+Conditional Formatting in Excel can be a really powerful tool. If you ever wanted to use Excel as a model checking or model management tool on Revit projects then this will come really handy for you. I use it to extract all kinds of data and parameters and then apply conditional formatting to it, to quickly identify mistakes and imissions. Conditional Formatting requires 4 main steps to be defined. Here they are:
+
+![](overview.png)
 
 ### 4.1.1 Set Up
 
