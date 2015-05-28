@@ -4,16 +4,16 @@ Conditional Formatting in Excel can be a really powerful tool. If you ever wante
 
 ![](overview.png)
 
-**1. Choose Conditional Formatting Condition. This can be a Cell Value, Expression or 2/3 Color Gradient Scheme. 
+1. Choose Conditional Formatting Condition. This can be a Cell Value, Expression or 2/3 Color Gradient Scheme. 
 
 2. Define rules that will govern whether Graphic Style will be applied to a cell or not. 
 
 3. Create a Graphic Style that will be applied to a cell in case that cell evaluates to True based on formatting rule. 
 
-4. Apply it to Excel Document/Range.**
+4. Apply it to Excel Document/Range.
 
 
-Let's 
+Let's go over these four steps using Cell Value Formatting Condition as an example. 
 
 
 ### 4.1.1 Set Up
