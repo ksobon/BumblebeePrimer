@@ -107,3 +107,7 @@ You can also apply different Format Conditions to more than one range at the tim
 This is what the final result will look like:
 
 ![](cellValue12.png)
+
+The trick is to match the length of the Cell Range list with the Format Conditions list like so: 
+
+![](cellValue13.png)
