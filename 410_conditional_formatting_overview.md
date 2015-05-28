@@ -26,5 +26,5 @@ Multiple Formatting Conditions applied to multiple ranges in an Excel file helpi
 
 Rules Box in Excel that reflects all of the Conditions applied. 
 
-![](conditionalFormat3.png)
+<center>![](conditionalFormat3.png)</center>
 
