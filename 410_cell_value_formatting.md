@@ -84,13 +84,15 @@ While defining Graphic Style you can chose to either override one or all of the 
 <p><b> LineColor:</b> [Color] If you wish to specify line color use Color.ByARGB node to do so.</p>
 </blockquote>
 
-### 4.2.6 Putting it All Together...
+### 4.2.6 Cell Value Format Condition - Single Range/Single Format Condition
 
 ![](cellValue6.png)
 
 This is what the final result will look like:
 
 ![](cellValue8.png)
+
+### 4.2.7 Cell Value Format Condition - Single Range/Multiple Format Conditions
 
 You can also stack more than one Format Condition on top of each other and formatting will be applied based on order that they were added in case that both Format Conditions evaluate to True. Here's an example:
 
@@ -99,6 +101,8 @@ You can also stack more than one Format Condition on top of each other and forma
 This is what the final result will look like:
 
 ![](cellValue10.png)
+
+### 4.2.8 Cell Value Format Condition - Multiple Ranges/Multiple Format Conditions
 
 You can also apply different Format Conditions to more than one range at the time while maintaining ability to add more than one Format Condition per Range. Just create lists of lists of Format Conditions and you will be good to go. 
 
