@@ -31,9 +31,9 @@ Once we have our condition defined we can move on to defining Graphic Style that
 
 ### 4.2.2 Define Graphic Style
 
-Please see section 3.0.0 for detail instructions on how to define Graphic Styles.
+Please see section 3.0.0 for detail instructions on how to define Graphic Styles. This Graphic Style will be used if cell evaluates to True based on rules defined in previous section. 
 
-### 4.2.6 Cell Value Format Condition - Single Range/Single Format Condition
+### 4.2.3 Cell Value Format Condition - Single Range/Single Format Condition
 
 ![](cellValue6.png)
 
@@ -41,7 +41,7 @@ This is what the final result will look like:
 
 ![](cellValue8.png)
 
-### 4.2.7 Cell Value Format Condition - Single Range/Multiple Format Conditions
+### 4.2.4 Cell Value Format Condition - Single Range/Multiple Format Conditions
 
 You can also stack more than one Format Condition on top of each other and formatting will be applied based on order that they were added in case that both Format Conditions evaluate to True. Here's an example:
 
@@ -51,7 +51,7 @@ This is what the final result will look like:
 
 ![](cellValue10.png)
 
-### 4.2.8 Cell Value Format Condition - Multiple Ranges/Multiple Format Conditions
+### 4.2.5 Cell Value Format Condition - Multiple Ranges/Multiple Format Conditions
 
 You can also apply different Format Conditions to more than one range at the time while maintaining ability to add more than one Format Condition per Range. Just create lists of lists of Format Conditions and you will be good to go. 
 
