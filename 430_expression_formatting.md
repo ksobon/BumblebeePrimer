@@ -18,7 +18,7 @@ Again I am not an excel guru, but this rule holds true even when you try applyin
 
 ### 4.3.2 Define Graphic Style
 
-Please see Define Graphic Style section of this book for more details on how to define Graphic Style. 
+Please see 3.1.0 Define Graphic Style section of this book for more details on how to define Graphic Style. 
 
 This is what the final result would look like:
 
