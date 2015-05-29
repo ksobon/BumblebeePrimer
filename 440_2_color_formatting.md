@@ -4,3 +4,6 @@
 
 ![](2color1.png)
 
+### 4.4.1 Define Min and Max Value Types
+
+You can define rules of how this color gradient will be applied to range of numbers by specifying Min and Max value types. This can either be as simple as "automatic" or as custom as inputting an actual number for a min/max value. 
