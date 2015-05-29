@@ -31,6 +31,8 @@ Once we have our condition defined we can move on to defining Graphic Style that
 
 ### 4.2.2 Define Graphic Style
 
+Please see section 3.0.0 for detail instructions on how to define Graphic Styles.
+
 While defining Graphic Style you can chose to either override one or all of the available styles. If you wish to not override Border Style then just leave that input empty.
 
 ![](cellValue4.png)
