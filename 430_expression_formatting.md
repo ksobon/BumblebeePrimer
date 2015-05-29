@@ -24,3 +24,9 @@ This is what the final result would look like:
 
 ![](expressionFormatting2.png)
 
+### 4.3.3 Putting it together...
+
+Exactly the same rules apply to Expression Formatting as to Cell Value Formatting. You can stack multiple format conditions on top of each other or apply them to different ranges at the same time. Please see section 4.1.0 Cell Value Formatting to see multiple condition formats in action. Here's an example of stacking Cell Value Format Condition and Expression Condition in the same Range. 
+
+![](expressionFormatting3.png)
+
