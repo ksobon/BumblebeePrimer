@@ -37,3 +37,7 @@ In this example we highlight Bottom 15% of all numbers in the specified range.
 
 ![](topbottom_6.png)
 
+In this example we highlight exactly 15 of the top values in the specified range.
+
+
+
