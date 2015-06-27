@@ -25,7 +25,15 @@ Please see section 3.0.0 for detail instructions on how to define Graphic Styles
 
 ### 4.6.3 Top Percentile Values
 
+![](topbottom_4.png)
+
 ![](topbottom_3.png)
 
+In this example we highlight Bottom 15% of all numbers in the specified range.
+
 ### 4.6.4 Top Number of Values 
+
+![](topbottom_5.png)
+
+![](topbottom_6.png)
 
