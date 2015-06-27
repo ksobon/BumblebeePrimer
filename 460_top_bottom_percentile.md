@@ -7,10 +7,15 @@ Top/Bottom Percentile Formatting allows you to set up a formatting condition tha
 ![](topbottom_2.png)
 
 <blockquote>
-<p> 1. Equal - requires (1) value for comparison. </p>
-<p> 2. NotEqual - requires (1) value for comparison. </p>
-<p> 3. Greater - requires (1) value for comparison. </p>
-<p> 4. GreaterEqual - requires (1) value for comparison. </p>
+
+<p><b>Percent:</b> [Boolean] </p>
+
+<p><b>Rank:</b> [Integer] </p>
+
+<p><b>Top:</b> [Boolean] </p>
+
+<p><b>GraphicStyle:</b> [Graphic Style]  </p>
+
 </blockquote>
 
 Values can be either Strings or Numbers and it simply depends on what data you want to compare it to in Excel. For this example I will use a String. My objective is to check a range of values in Excel and determine if its equal to "Author". If it is then I want to apply a specific Graphic Style to that cell. 
