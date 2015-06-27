@@ -23,3 +23,18 @@ Let's have a quick look at available options and their meaning.
 <p><strike><b> AutomaticMin:</b> This option is NOT available for use with (2) Color Scale Formatting. </strike></p>
 <p><strike><b> None:</b> This option is NOT available for use with (2) Color Scale Formatting.</strike> </p>
 </blockquote>
+
+### 4.4.2 Define Min and Max Values
+
+Based on chosen Min/Max Values Types you might have to specify a numerical or formula value that will be used with this formatting style. Here's what the example above will look like:
+
+![](2color3.png)
+
+Here's an additional example that will color only top 20% of the specified range with orange color while applying a blue color to lower 80%. 
+
+![](2color4.png)
+
+Here's what this set up will evaluate to: 
+
+![](2color5.png)
+
