@@ -65,7 +65,6 @@ Please make sure that if you are specifying multiple sheet names (List[]) and mu
 ![](readExcel8.png)
 
 &nbsp;
-<hr><hr>
 ### Tips and Tricks
 
 <blockquote>
