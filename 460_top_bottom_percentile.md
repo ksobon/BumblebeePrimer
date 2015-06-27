@@ -4,6 +4,8 @@ Top/Bottom Percentile Formatting allows you to set up a formatting condition tha
 
 ### 4.6.1 Define Formatting Condition rules
 
+![](topbottom_2.png)
+
 
 
 ### 4.6.2 Define Graphic Style
