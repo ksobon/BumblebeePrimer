@@ -8,24 +8,24 @@ Top/Bottom Percentile Formatting allows you to set up a formatting condition tha
 
 <blockquote>
 
-<p><b>MinType:</b> [Condition Value Type] </p>
+<p><b>MinType:</b> [Condition Value Type] If this input is LowestValue or AutomaticMin Excel will automatically assign the minimum value from the range of numbers specified. MinValue will NOT need to be supplied if either one of the two values are used.</p>
 
-<p><b>MinValue:</b> [Integer]  </p>
+<p><b>MinValue:</b> [Integer]  Only needed if MinType IS NOT LowestValue or AutomaticMin </p>
 
-<p><b>Top:</b> [Boolean] </p>
+<p><b>MaxType:</b> [[Condition Value Type] If this input is HeighestValue or AutomaticMax Excel will automatically assign the maximum value from the range of numbers specified. MaxValue will NOT need to be supplied if either one of the two values are used.</p>
 
-<p><b>MaxType:</b> [[Condition Value Type] </p>
+<p><b>MaxValue:</b> [Integer] Only needed if MaxType IS NOT HeighestValue or AutomaticMax </p>
 
-<p><b>MaxValue:</b> [Integer] </p>
+<p><b>DirectionType:</b> [Direction Type] Use this input to specify direction of the data bar. </p>
 
-<p><b>DirectionType:</b> [Direction Type] </p>
+<p><b>GradientFill:</b> [Boolean] If set to True, generated data bar will have a gradient fill style fading from FillColor specified to White. </p>
 
-<p><b>GradientFill:</b> [Boolean] </p>
+<p><b>FillColor:</b> [Color] Color of the Data Bar</p>
 
-<p><b>FillColor:</b> [Color] </p>
-
-<p><b>BorderColor:</b> [Color]</p>
+<p><b>BorderColor:</b> [Color] If supplied, it will set the border color for each cell in the specified range. </p>
 
 </blockquote>
+
+
 
 
