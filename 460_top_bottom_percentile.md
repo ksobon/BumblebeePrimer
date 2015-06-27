@@ -23,3 +23,9 @@ Top/Bottom Percentile Formatting allows you to set up a formatting condition tha
 
 Please see section 3.0.0 for detail instructions on how to define Graphic Styles. This Graphic Style will be used if cell evaluates to True based on rules defined in previous section. 
 
+### 4.6.3 Top Percentile Values
+
+![](topbottom_3.png)
+
+### 4.6.4 Top Number of Values 
+
