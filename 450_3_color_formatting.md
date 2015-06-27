@@ -32,11 +32,3 @@ Based on chosen Min/Max Values Types you might have to specify a numerical or fo
 
 ![](3color2.png)
 
-Here's an additional example that will color only top 20% of the specified range with orange color while applying a blue color to lower 80%. 
-
-![](2color4.png)
-
-Here's what this set up will evaluate to: 
-
-![](2color5.png)
-
