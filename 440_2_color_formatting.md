@@ -13,13 +13,13 @@ Let's have a quick look at available options and their meaning.
 ![](2color12png.png)
 
 <blockquote>
-<p><b> LowestValue:</b> If you chose this option, Excel will automatically chose the lowest value in the specified range and use that as a Minimum. Chosing this option means that you DO NOT have to supply MinValue. </p>
-<p><b> Number: </b> If you chose this option, you will have to also supply MinValue input that will determine the minimum number. 
-<p><b>Percent:</b> If you chose this option you will have to supply MinValue and it will have to be between 0-100. </p>
-<p><b> Formula: </b> You can use a Formula to determine a MinValue. If you chose to use the formula then, you have to supply it to MinValue input. Something to keep in mind when using Formulas with 2-Color Formatting is that they cannot be referencing other cells. That means that a formula like this: =1, will work just fine while something like this: =$B1=1, will not.</p>
-<p><b> Percentile:</b> If you chose this option you will have to supply MinValue and it will have to be between 1-99. </p> 
-<p><b> HighestValue:</b> If you chose this option, Excel will automatically choose the highest value in the specified range and use that as a Minimum/Maximum. Choosing this option means that you DO NOT have to supply MinValue/MaxValue. </p>
+<p><b> LowestValue:</b> If you chose this option, Excel will automatically chose the lowest value in the specified range and use that as a Minimum. Choosing this option means that you DO NOT have to supply MinValue. LowestValue can ONLY be applied to MinValueType input.</p>
+<p><b> Number: </b> If you chose this option, you will have to also supply MinValue/MaxValue input that will determine the minimum number. 
+<p><b>Percent:</b> If you chose this option you will have to supply MinValue/MaxValue and it will have to be between 0-100. </p>
+<p><b> Formula: </b> You can use a Formula to determine a MinValue/MaxValue. If you chose to use the formula then, you have to supply it to MinValue/MaxValue input. Something to keep in mind when using Formulas with 2-Color Formatting is that they cannot be referencing other cells. That means that a formula like this: =1, will work just fine while something like this: =$B1=1, will not.</p>
+<p><b> Percentile:</b> If you chose this option you will have to supply MinValue/MaxValue and it will have to be between 1-99. </p> 
+<p><b> HighestValue:</b> If you chose this option, Excel will automatically choose the highest value in the specified range and use that as a Maximum. Choosing this option means that you DO NOT have to supply MaxValue. HighestValue can ONLY be applied to MaxValueType input.</p>
 <p><b> AutomaticMax:</b> This option is NOT available for use with (2) Color Scale Formatting. </p>
 <p><b> AutomaticMin:</b> This option is NOT available for use with (2) Color Scale Formatting. </p>
-<p><b> None:</b> This option is NOT available for use with (2) Color Scale Formatting. </p>
+<p><b> None:</b> ~~This option is NOT available for use with (2) Color Scale Formatting.~~ </p>
 </blockquote>
