@@ -26,11 +26,11 @@ Let's have a quick look at available options and their meaning. They are very si
 
 What this means that Lowest and Highest Value selections can only be made for Min and Max respectively. Mid value type can only be a Number, Percent, Percentile or Formula. 
 
-### 4.4.2 Define Min and Max Values
+### 4.5.2 Define Min and Max Values
 
 Based on chosen Min/Max Values Types you might have to specify a numerical or formula value that will be used with this formatting style. Here's what the example above will look like:
 
-![](2color3.png)
+![](3color2.png)
 
 Here's an additional example that will color only top 20% of the specified range with orange color while applying a blue color to lower 80%. 
 
