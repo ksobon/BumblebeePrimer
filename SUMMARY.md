@@ -12,5 +12,5 @@
    * [2 Color](440_2_color_formatting.md)
    * [3 Color](450_3_color_formatting.md)
    * [Top/Bottom Percentile](460_top_bottom_percentile.md)
-   * Data Bar
+   * [Data Bar](470_data_bar.md)
 
