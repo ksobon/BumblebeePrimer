@@ -1,4 +1,4 @@
-# 4.3.0 Expression Formatting
+# 4.3.0 Top/Bottom Percentile 
 
 Expression Formatting allows you to set up a formatting condition that will evaluate an Excel expression as if it was applied to every cell and apply certain style to cell based on that evaluation result. 
 
