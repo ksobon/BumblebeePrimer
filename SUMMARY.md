@@ -8,7 +8,7 @@
 * [ConditionalFormatting](300_conditional_formatting_nodes.md)
    * [Overview](310_conditional_formatting_overview.md)
    * [Cell Value](320_cell_value_formatting.md)
-   * [Expression](430_expression_formatting.md)
+   * [Expression](330_expression_formatting.md)
    * [2 Color](440_2_color_formatting.md)
    * [3 Color](450_3_color_formatting.md)
    * [Top/Bottom Percentile](460_top_bottom_percentile.md)
