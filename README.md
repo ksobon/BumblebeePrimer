@@ -1,4 +1,4 @@
-# <b>BumblebeePrimer</b>
+# <b>Bumblebee Primer</b>
 
 ##First Edition V1.0
 
