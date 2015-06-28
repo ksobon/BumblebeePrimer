@@ -10,7 +10,7 @@
    * [Cell Value](320_cell_value_formatting.md)
    * [Expression](330_expression_formatting.md)
    * [2 Color](340_2_color_formatting.md)
-   * [3 Color](450_3_color_formatting.md)
+   * [3 Color](350_3_color_formatting.md)
    * [Top/Bottom Percentile](460_top_bottom_percentile.md)
    * [Data Bar](470_data_bar.md)
 
