@@ -1,6 +1,6 @@
-# 3.1.0 Graphic Styles
+# 2.0.0 Graphic Styles
 
-### 3.1.1 Define Graphic Style
+### 2.0.1 Define Graphic Style
 
 While defining Graphic Style you can chose to either override one or all of the available styles. If you wish to not override Border Style then just leave that input empty.
 
@@ -12,7 +12,7 @@ While defining Graphic Style you can chose to either override one or all of the 
 <p><b> BorderStyle:</b> [Border Style] If you supply a border style to this input it will be overridden to whatever border style settings were defined for that text style.</p>
 </blockquote>
 
-### 3.1.2 Define Fill Style
+### 2.0.2 Define Fill Style
 
 ![](cellValue5.png)
 
@@ -29,7 +29,7 @@ While defining Graphic Style you can chose to either override one or all of the 
 <p><b>Tip:</b> When defining Pattern Color one has to specify a background color. Pattern color will only "take" when Background is defined. I usually define background to be White. 
 </blockquote>
 
-### 3.1.3 Define Text Style
+### 2.0.3 Define Text Style
 
 ![](textStyle.png)
 
@@ -45,7 +45,7 @@ While defining Graphic Style you can chose to either override one or all of the 
 <p><b> Strikethrough:</b> [Boolean] Set it to True for font to have a strikethrough.</p>
 </blockquote>
 
-### 3.1.4 Define Border Style
+### 2.0.4 Define Border Style
 
 ![](borderStyle.png)
 
