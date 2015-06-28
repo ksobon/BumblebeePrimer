@@ -1,10 +1,10 @@
-# 4.5.0 (3) Color Scale Formatting
+# 3.5.0 (3) Color Scale Formatting
 
 (3) Color Scale Formatting allows you to set up a formatting condition that will evaluate a range of numbers and then based on some simple rules will color all of the values with an appropriate color defined in a three color gradient.
 
 ![](3color1.png)
 
-### 4.5.1 Define Min and Max Value Types
+### 3.5.1 Define Min and Max Value Types
 
 You can define rules of how this color gradient will be applied to range of numbers by specifying Min, Mid and Max value types. This can either be as simple as "automatic" or as custom as inputting an actual number for a min/mid/max value. 
 
@@ -26,7 +26,7 @@ Let's have a quick look at available options and their meaning. They are very si
 
 What this means that Lowest and Highest Value selections can only be made for Min and Max respectively. Mid value type can only be a Number, Percent, Percentile or Formula. 
 
-### 4.5.2 Define Min and Max Values
+### 3.5.2 Define Min and Max Values
 
 Based on chosen Min/Max Values Types you might have to specify a numerical or formula value that will be used with this formatting style. Here's what the example above will look like:
 
