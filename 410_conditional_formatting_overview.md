@@ -1,4 +1,4 @@
-# 4.1.0 Conditional Formatting Overview
+# 3.1.0 Conditional Formatting Overview
 
 Conditional Formatting in Excel can be a really powerful tool. If you ever wanted to use Excel as a model checking or model management tool on Revit projects then this will come really handy for you. I use it to extract all kinds of data and parameters and then apply conditional formatting to it, to quickly identify mistakes and imissions. Conditional Formatting requires 4 main steps to be defined. Here they are:
 
@@ -16,7 +16,7 @@ Conditional Formatting in Excel can be a really powerful tool. If you ever wante
 Let's go over these four steps using Cell Value Formatting Condition as an example. 
 
 
-### 4.1.1 Set Up
+### 3.1.1 Set Up
 
 ![](conditionalFormat1.png)
 
@@ -32,7 +32,7 @@ Let's go over these four steps using Cell Value Formatting Condition as an examp
 <p><b> FormatConditions:</b> [FormatCondition or List[FormatCondition]] Use this input to supply a single Format Condition object (for example a Cell Value FC) or a list of multiple Format Conditions. This allows you to combine multiple Cell Value format conditions or apply them to multiple ranges. 
 </blockquote>
 
-### 4.1.2 Example:
+### 3.1.2 Example:
 
 Multiple Formatting Conditions applied to multiple ranges in an Excel file helping me identify parameters in my Drawing List that were not set or set incorrectly. 
 
