@@ -19,6 +19,12 @@ More information about Bumblebee and other great Open Source projects can be fou
 
 ![](logo-thumbnail2.png)
 
+##Software and Resources
+
+<b>Dynamo</b> This plug-in was developed and tested with the Version 0.8.0. 
+
+<b>UI++</b> is a plugin developed by Adam Sheather that allows you to select colors with great ease. You can see his ColorUI node used throughout this Primer. You can download UI++ from Package Manager.
+
 ##Acknowledgements
 
 A special thanks to David Mans for making such an awesome Excel Interop plug-in for Grasshopper that was not only an inspiration for this project but also a great resource and a learning tool. You can access David's website here: http://www.neoarchaic.net/
