@@ -1,6 +1,6 @@
-# 2.2.0 Read Data from Excel
+# 1.1.0 Read Data from Excel
 
-### 2.2.1 Read Single Sheet - Entire Content
+### 1.1.1 Read Single Sheet - Entire Content
 
 You can read Excel files in a number of different ways using Bumblebee. You can read an entire sheet contents, read from specified origin point, read only a specific range of data or do all of the former but for multiple sheets.
 
@@ -20,7 +20,7 @@ You can read Excel files in a number of different ways using Bumblebee. You can 
 <p><b> Extent:</b> [String or List[String]] Leave this input blank and default extent is set to read the whole sheet. You can either supply an excel address format: "A13" or a cell index format List[1,13] to constrain the extent of document that you want to read.</p>
 </blockquote>
 
-### 2.2.2 Read Single Sheet - From Specific Origin
+### 1.1.2 Read Single Sheet - From Specific Origin
 
 ![](readExcel2.png)
 
@@ -29,7 +29,7 @@ In this example we are setting the Origin to be at A6 so data will only be read 
 ![](readExcel1.png)
 
 
-### 2.2.3 Read Single Sheet - Specific Range Only
+### 1.1.3 Read Single Sheet - Specific Range Only
 
 ![](readExcel3.png)
 
@@ -38,7 +38,7 @@ In this example we are setting both the Origin and Extent effectively creating a
 ![](readExcel4.png)
 
 
-### 2.2.4 Read Single Sheet - From Specific Extent
+### 1.1.4 Read Single Sheet - From Specific Extent
 
 ![](readExcel5.png)
 
@@ -47,7 +47,7 @@ In this example we are setting the Extent only effectively creating a range that
 ![](readExcel6.png)
 
 
-### 2.2.5 Read Multiple Sheets - Entire Content
+### 1.1.5 Read Multiple Sheets - Entire Content
 
 ![](readExcel7.png)
 
@@ -58,7 +58,7 @@ In this example we are setting the Extent only effectively creating a range that
 ![](tip1.png)
 
 
-### 2.2.6 Read Multiple Sheets - From Specific Origin
+### 1.1.6 Read Multiple Sheets - From Specific Origin
 
 Please make sure that if you are specifying multiple sheet names (List[]) and multiple origins/extents to match their lengths. For example if I have a List["FirstSheet","SecondSheet"] and you want to specify a different origin for each sheet to do it like so: List["A1","B1"]. You can of course leave the origin/extent inputs blank and defaults discussed earlier will apply. Here's an example:
 
