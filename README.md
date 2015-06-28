@@ -14,10 +14,9 @@ This is an Open Source project and all code for both Bumblebee nodes as well as 
 
 Majority of Bumblebee was written by Konrad K Sobon, but also majority of it was either previously developed by David Mans, or was developed after some great brainstorming sessions with David. 
 
-More information about Bumblebee and other great Open Source projects can be found at my blog website: 
-[](http//www.archi-lab.net)
+More information about Bumblebee and other great Open Source projects can be found at my blog website: [](http//www.archi-lab.net)
 
-![](archilab_logo.png) 
+![](archilab_logo.png)
 
 ##Software and Resources
 
