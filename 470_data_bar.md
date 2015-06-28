@@ -1,10 +1,10 @@
-# 4.7.0 Data Bar Formatting
+# 3.7.0 Data Bar Formatting
 
 Top/Bottom Percentile Formatting allows you to set up a formatting condition that will either highlight a top or bottom percentile of values in a given range, or it will highlight a number of top or bottom values. 
 
 ![](databar_1.png)
 
-### 4.7.1 Define Formatting Condition Rules
+### 3.7.1 Define Formatting Condition Rules
 
 <blockquote>
 
@@ -27,7 +27,7 @@ Top/Bottom Percentile Formatting allows you to set up a formatting condition tha
 </blockquote>
 
 
-### 4.6.2 Data Bar with Gradient no Border
+### 3.6.2 Data Bar with Gradient no Border
 
 In this example we highlight cells in the specified range using a gradient data bar that has no border. It also has automatic min and max values assigned that were generated based on the values in the supplied range. 
 
@@ -35,7 +35,7 @@ In this example we highlight cells in the specified range using a gradient data 
 
 ![](databar_2.png)
 
-### 4.6.3 Data Bar with Border and no Gradient
+### 3.6.3 Data Bar with Border and no Gradient
 
 In this example we highlight cells in the specified range using a data bar that has a border. It also has automatic min and max values assigned that were generated based on the values in the supplied range. 
 
