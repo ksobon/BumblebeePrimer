@@ -1,6 +1,6 @@
-# 2.1.0 Write Data to Excel
+# 1.2.0 Write Data to Excel
 
-### 2.1.2 Write Multiple Rows of Data to Excel
+### 1.2.1 Write Multiple Rows of Data to Excel
 
 This is probably the most common application for Bumblebee - writing a nested list of data to multiple columns or rows to an Excel spreadsheet. Here's how its done: 
 
@@ -16,7 +16,7 @@ This is probably the most common application for Bumblebee - writing a nested li
 <p><b>BBData:</b> [BBData] This is a BBData input. Please see below for how this node can be set up.</p>
 </blockquote>
 
-### 2.2.1 Setting Up BB Data Node
+### 1.2.2 Setting Up BB Data Node
 
 ![](bbData.png)
 
@@ -30,7 +30,7 @@ For any of the inputs please make sure that you always match their data types. W
 <p><b>Data:</b> [List[] or Nested List[[]]] This is data that you wish to write to Excel. For now Bumblebee was only tested writing Numbers and Strings. </p>
 </blockquote>
 
-### 2.2.2 Combining BB Data Nodes to Write Multiple Sheets
+### 1.2.3 Combining BB Data Nodes to Write Multiple Sheets
 
 Bumblebee has ability to write more than one sheet at the time. You can generate a single BB Data node for each sheet and then use List.Create to combine them into a list of BB Data objects that can be used as an input to Write Excel node. 
 
@@ -40,7 +40,7 @@ You can also achieve this functionality using a single BB Data node like so:
 
 ![](bbData3.png)
 
-### 2.2.3 Additional Example
+### 1.2.4 Additional Example
 
 You can also combine BB Data nodes in this fashion to write not only to multiple sheets but also to the same sheet but from a different origin. 
 
