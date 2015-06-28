@@ -31,8 +31,14 @@ Top/Bottom Percentile Formatting allows you to set up a formatting condition tha
 
 In this example we highlight cells in the specified range using a gradient data bar that has no border. It also has automatic min and max values assigned that were generated based on the values in the supplied range. 
 
+![](databar_4.png)
+
 ![](databar_2.png)
 
-### 4.6.3 Data Bar with 
+### 4.6.3 Data Bar with Border and no Gradient
 
-In this example we highlight cells in the specified range using a gradient data bar that has no border. It also has automatic min and max values assigned that were generated based on the values in the supplied range. 
+In this example we highlight cells in the specified range using a data bar that has a border. It also has automatic min and max values assigned that were generated based on the values in the supplied range. 
+
+![](databar_3.png)
+
+![](databar_5.png)
