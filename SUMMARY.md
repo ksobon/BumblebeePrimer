@@ -4,7 +4,7 @@
 * [Application Nodes](100_application_nodes.md)
    * [Read Data](110_read_data_from_excel.md)
    * [Write Data](120_write_data_to_excel.md)
-* [Graphic Styles](300_graphic_styles.md)
+* [Graphic Styles](200_graphic_styles.md)
 * [ConditionalFormatting](400_conditional_formatting_nodes.md)
    * [Overview](410_conditional_formatting_overview.md)
    * [Cell Value](420_cell_value_formatting.md)
