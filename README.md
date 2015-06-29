@@ -2,7 +2,7 @@
 
 ##First Edition V1.0
 
-![](bumblebee_icons-04.png) 
+![](bumblebee_icons-04.png)  
 
 <blockquote>
 <p>Bumblebee is an Excel Interop extension for Dynamo. </p>
