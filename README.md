@@ -18,6 +18,10 @@ More information about Bumblebee and other great Open Source projects can be fou
 
 ![](archilab_logo.png)
 
+Also, some parts of Bumblebee were developed on company time so its worth mentioning Grimshaw Architects and my manager Greg for letting me work on this while there was usually plenty of projects in the office that could have used someone to move some toilets around. :-) 
+
+![](grimshaw_logo.png)
+
 ##Software and Resources
 
 <b>Dynamo</b> This plug-in was developed and tested with the Version 0.8.0. 
