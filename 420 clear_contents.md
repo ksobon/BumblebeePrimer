@@ -2,6 +2,8 @@
 
 Clear Contents is a node that will allow you to do few things. One of them is to clear data or cell content from a range of Excel sheet. It can also clear any formatting applied to those cells (color fills, text style overrides etc.). 
 
+####There is only one rule here: please close Excel when trying to override a file. :-)
+
 ![](clearContent.png)
 
 ### 4.2.1 Set up
