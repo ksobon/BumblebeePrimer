@@ -4,6 +4,8 @@
 
 This is probably the most common application for Bumblebee - writing a nested list of data to multiple columns or rows to an Excel spreadsheet. Here's how its done: 
 
+####There is only one rule here: please close Excel when trying to override a file. :-)
+
 ![](writeExcel1.png)
 
 <blockquote>
