@@ -15,4 +15,5 @@
    * [Data Bar](370_data_bar.md)
 * [Extras](400_Extras.md)
    * [Search Value Get Row](410_search_value_get_row.md)
-   * [Clear Contents](420_clear_contents.md)
+   * [Clear Contents](420 clear_contents.md)
+
