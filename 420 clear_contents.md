@@ -7,7 +7,7 @@ Clear Contents is a node that will allow you to do few things. One of them is to
 ### 4.2.1 Set up
 
 <blockquote>
-<p><b> FilePath:</b> [File Path] </p>
+<p><b> FilePath:</b> [File Path] Use FilePath node to point at Excel file that you wish to read data from.</p>
 <p><b> RunIt:</b> [Boolean]</p>
 <p><b> SheetName:</b> [String]</p>
 <p><b> ClearContent:</b> [Boolean]</p>
