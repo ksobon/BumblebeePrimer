@@ -18,7 +18,7 @@ More information about Bumblebee and other great Open Source projects can be fou
 
 ![](archilab_logo.png)
 
-Also, some parts of Bumblebee were developed on company time so its worth mentioning Grimshaw Architects and my manager Greg for letting me work on this while there was usually plenty of projects in the office that could have used someone to move some toilets around. :-) 
+Also, thanks to folks at Grimshaw Architects for letting me work on this plug-in while there was usually plenty of projects in the office that could have used someone to move some toilets around. :-)
 
 ![](grimshaw_logo.png)
 
