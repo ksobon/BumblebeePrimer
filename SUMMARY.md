@@ -7,5 +7,4 @@
 * [Graphic Styles](200_graphic_styles.md)
 * [Extras](500_extras.md)
    * Search Value Get Row
-   * Search Value Get Row
 
