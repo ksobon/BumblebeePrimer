@@ -33,3 +33,7 @@ For any of the inputs please make sure that you always match their data types. W
 <p><b>Data:</b> [List[] or Nested List[[]]] This is data that you wish to write to Excel. For now Bumblebee was only tested writing Numbers and Strings. </p>
 </blockquote>
 
+### 1.3.3 Adding new sheets to Excel.
+
+If by any chance you want to create a new Sheet in the current Excel file, just use a SheetName (BB Data input) that doesn't exist yet and it will be added. 
+
