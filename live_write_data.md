@@ -7,3 +7,6 @@ Given large community outcry (yes, I am looking at you - Shane Burger) I decided
 ### 1.2.1 Write Multiple Rows of Data to Excel
 
 This is probably the most common application for Bumblebee - writing a nested list of data to multiple columns or rows to an Excel spreadsheet. Here's how its done: 
+
+![](image01.png)
+
