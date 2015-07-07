@@ -10,3 +10,11 @@ This is probably the most common application for Bumblebee - writing a nested li
 
 ![](image01.png)
 
+<blockquote>
+
+<p><b>RunIt:</b> [Boolean] If set to False it will disable this node. If set to True it will enable this node and execute the write process.</p>
+
+<p><b>ByColumn:</b> [Boolean] If set to False this file will be written "By Row" which is a standard Excel writing method. Setting it to True will be equivelant to performing a Transpose function on data before writing it.</p>
+
+<p><b>BBData:</b> [BBData] This is a BBData input. Please see below for how this node can be set up.</p>
+</blockquote>
