@@ -6,6 +6,7 @@
    * [Write Data](120_write_data_to_excel.md)
    * [Live Write Data](130_live_write_data.md)
 * [Graphic Styles](200_graphic_styles.md)
+   * Fill Style
 * [ConditionalFormatting](300_conditional_formatting_nodes.md)
    * [Overview](310_conditional_formatting_overview.md)
    * [Cell Value](320_cell_value_formatting.md)
