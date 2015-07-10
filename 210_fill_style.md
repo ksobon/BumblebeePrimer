@@ -6,7 +6,7 @@
 <p><b> PatternType:</b> [Pattern Type] If you wish to apply fill pattern to a cell use this input to specify it.</p>
 <p><b> BackgroundColor:</b> [Color] If you wish to specify a background color in a cell use Color.ByARGB node to do so.</p>
 <p><b> PatternColor:</b> [Color] If you wish to specify pattern color use Color.ByARGB node to do so.</p>
-<p><b> Bevel:</b> [Bevel Type] Currently unavailable </p>
+<p><strikethrough><b> Bevel:</b> [Bevel Type] Currently unavailable </strikethrough></p>
 <p><b> Opacity:</b> [Integer] Currently unavailable </p>
 </blockquote>
 
