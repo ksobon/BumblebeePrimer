@@ -20,3 +20,4 @@
 <p><b>Tip2:</b> When you chose a "xlSolid" that means that you only have to define BackgroundColor. 
 </blockquote>
 
+![](patternTypes1.png)
