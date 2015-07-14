@@ -1,4 +1,4 @@
-### 2.0.3 Define Text Style
+### 2.2.0 Define Text Style
 
 ![](textStyle.png)
 
