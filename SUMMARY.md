@@ -4,7 +4,6 @@
 * [Application Nodes](100_application_nodes.md)
    * [Read Data](110_read_data_from_excel.md)
    * [Write Data](120_write_data_to_excel.md)
-   * [Live Write Data](130_live_write_data.md)
 * [Graphic Styles](200_graphic_styles.md)
    * [Fill Style](210_fill_style.md)
    * [Text Style](220_text_style.md)
