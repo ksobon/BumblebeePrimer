@@ -12,7 +12,7 @@
    * [Graph Style](250_graph_style.md)
    * [Label Style](260_label_style.md)
    * [Chart Style](270_chart_style.md)
-* [ConditionalFormatting](300_conditional_formatting_nodes.md)
+* [Conditional Formatting](300_conditional_formatting_nodes.md)
    * [Overview](310_conditional_formatting_overview.md)
    * [Cell Value](320_cell_value_formatting.md)
    * [Expression](330_expression_formatting.md)
