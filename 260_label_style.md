@@ -14,3 +14,7 @@
 <p><b> Separator:</b> [String] A string that will be used to separate each value in the label if more than one value is displayed. For example: SeriesName, Percentage, Value etc.</p>
 <p><b> LabelPosition:</b> [Label Position Type] Use Label Position Types to define a location for labels.</p>
 </blockquote>
+
+Example of a chart with labels set to Best Fit:
+
+![](charts_08.png)
