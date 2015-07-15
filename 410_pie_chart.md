@@ -48,3 +48,5 @@ In case that you do, want to supply a Graph Style it actually consists of two pa
 First thing that I like to do, is input an integer into Explosion input of Graph Style. That will control how much the each pie pieces fly apart. Keep in mind that the bigger the number the smaller the pie chart pieces, because no matter what, it will not go beyond the specified size. I also like to add a delicate border around each slice - use Border Style node to specify that. Finally, I add a Fill Style to make all of the colors in my chart the same. :-) I know, this kind of defeats the purpose of making a chart in a first place - but hey, its my chart so I can do whatever I like. 
 
 I also, do some Label Styling. You can use the Label Style node to control what shows up in the labels and where exactly they are created. I set the Text Style for my labels. I then set labels to display a percentage that each slice is in relation to the whole data set.  Finally I use the Label Position Types node to place each node on the Outside End of the chart. 
+
+
