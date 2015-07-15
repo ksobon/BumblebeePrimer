@@ -3,9 +3,9 @@
 ![](charts_09.png)
 
 <blockquote>
-<p><b> FillStyle:</b> [Fill Style] [Please refer to this section for more details.](http://konradsobon.gitbooks.io/bumblebee-primer/content/210_fill_style.html)</p>
-<p><b> TextStyle:</b> [Text Style] </p>
-<p><b> BorderStyle:</b> [Border Style] </p>
+<p><b> FillStyle:</b> [Fill Style] <a href="http://konradsobon.gitbooks.io/bumblebee-primer/content/210_fill_style.html">See Fill Style section for more details.</a></p>
+<p><b> TextStyle:</b> [Text Style] <a href="http://konradsobon.gitbooks.io/bumblebee-primer/content/220_text_style.html">See Text Style section for more details.</a></p>
+<p><b> BorderStyle:</b> [Border Style] <a href="http://konradsobon.gitbooks.io/bumblebee-primer/content/230_border_style.html">See Border Style section for more details.</a></p>
 <p><b> LabelStyle:</b> [Label Style] </p>
 <p><b> Explosion:</b> [Integer] </p>
 </blockquote>
