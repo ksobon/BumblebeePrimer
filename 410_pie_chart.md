@@ -49,4 +49,15 @@ First thing that I like to do, is input an integer into Explosion input of Graph
 
 I also, do some Label Styling. You can use the Label Style node to control what shows up in the labels and where exactly they are created. I set the Text Style for my labels. I then set labels to display a percentage that each slice is in relation to the whole data set.  Finally I use the Label Position Types node to place each node on the Outside End of the chart. 
 
+#### 4.1.4 Chart Styling
+
+![](charts_05-01.png)
+
+![](charts_06.png)
+
+This time the default setting is a white background and a solid border around the whole chart. If you however, supply an empty Chart Style, that in-itself will make the background become transparent and will remove the border. For the sake of illustration I have added a dashed border around the chart area, just so its clear what we are actually dealing with here. 
+
+My personal preference here is to just plug an empty Chart Style node into the Pie Chart node and move on, but for this illustration I have added a little border styling with Rounded Corners and dashed style. 
+
+
 
