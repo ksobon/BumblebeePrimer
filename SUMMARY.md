@@ -16,7 +16,7 @@
    * [3 Color](350_3_color_formatting.md)
    * [Top/Bottom Percentile](360_top_bottom_percentile.md)
    * [Data Bar](370_data_bar.md)
-* Charts
+* [Charts](400_charts.md)
 * [Extras](400_extras.md)
    * [Search Value Get Row](410_search_value_get_row.md)
    * [Clear Contents](420 clear_contents.md)
