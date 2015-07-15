@@ -9,5 +9,7 @@
 <p><b> RoundedCorners:</b> [Boolean] If this input is set to True AND Border Style is supplied it will make the border around chart have rounded corners.</p>
 </blockquote>
 
-Example of a horribly formatted chart:
+Example of a horribly formatted chart with a border:
+
+
 
