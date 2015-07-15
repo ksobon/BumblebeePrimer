@@ -9,7 +9,7 @@
    * [Text Style](220_text_style.md)
    * [Border Style](230_border_style.md)
    * [Legend Style](240_legend_style.md)
-   * Graph Style
+   * [Graph Style](250_graph_style.md)
    * Label Style
    * Chart Style
 * [ConditionalFormatting](300_conditional_formatting_nodes.md)
