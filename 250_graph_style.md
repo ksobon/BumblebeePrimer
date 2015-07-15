@@ -10,3 +10,6 @@
 <p><b> Explosion:</b> [Integer] Use this input to set the amount of explosion that will be added to Pie Chart. </p>
 </blockquote>
 
+#### 2.5.1 Example of a chart with labels and large amount of explosion:
+
+![](charts_10.png)
