@@ -1,9 +1,12 @@
 ### 2.5.0 Define Graph Style
 
-![](borderStyle.png)
+![](charts_09.png)
 
 <blockquote>
-<p><b> LineType:</b> [Line Type] If you wish to define a line type different than a solid use this input to do so.</p>
-<p><b> LineWeightType:</b> [Line Weight Type] Line weights can only be one of the following types: Hairline, Medium, Thick or Think.</p>
-<p><b> LineColor:</b> [Color] If you wish to specify line color use Color.ByARGB node to do so.</p>
+<p><b> FillStyle:</b> [Fill Style] [Please refer to this section for more details.](http://konradsobon.gitbooks.io/bumblebee-primer/content/210_fill_style.html)</p>
+<p><b> TextStyle:</b> [Text Style] </p>
+<p><b> BorderStyle:</b> [Border Style] </p>
+<p><b> LabelStyle:</b> [Label Style] </p>
+<p><b> Explosion:</b> [Integer] </p>
 </blockquote>
+
