@@ -1,9 +1,13 @@
 ### 2.7.0 Define Chart Style
 
-
+![](charts_06.png)
 
 <blockquote>
-<p><b> LineType:</b> [Line Type] If you wish to define a line type different than a solid use this input to do so.</p>
-<p><b> LineWeightType:</b> [Line Weight Type] Line weights can only be one of the following types: Hairline, Medium, Thick or Think.</p>
-<p><b> LineColor:</b> [Color] If you wish to specify line color use Color.ByARGB node to do so.</p>
+<p><b> FillStyle:</b> [Fill Style] [See Fill Style section for more details.](http://konradsobon.gitbooks.io/bumblebee-primer/content/210_fill_style.html)</p>
+<p><b> TextStyle:</b> [Text Style] [See Text Style section for more details.](http://konradsobon.gitbooks.io/bumblebee-primer/content/220_text_style.html)</p>
+<p><b> BorderStyle:</b> [Border Style] [See Border Style section for more details. ](http://konradsobon.gitbooks.io/bumblebee-primer/content/230_border_style.html)</p>
+<p><b> RoundedCorners:</b> [Boolean] If this input is set to True AND Border Style is supplied it will make the border around chart have rounded corners.</p>
 </blockquote>
+
+Example of a horribly formatted chart:
+
