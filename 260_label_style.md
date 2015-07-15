@@ -1,9 +1,16 @@
 ### 2.6.0 Define Label Style
 
-![](borderStyle.png)
+![](charts_07.png)
 
 <blockquote>
-<p><b> LineType:</b> [Line Type] If you wish to define a line type different than a solid use this input to do so.</p>
-<p><b> LineWeightType:</b> [Line Weight Type] Line weights can only be one of the following types: Hairline, Medium, Thick or Think.</p>
-<p><b> LineColor:</b> [Color] If you wish to specify line color use Color.ByARGB node to do so.</p>
+<p><b> FillStyle:</b> [Fill Style]</p>
+<p><b> TextStyle:</b> [Text Style]</p>
+<p><b> BorderStyle:</b> [Border Style]</p>
+<p><b> ShowSeriesName:</b> [Boolean]</p>
+<p><b> ShowValue:</b> [Boolean]</p>
+<p><b> ShowPercentage:</b> [Boolean]</p>
+<p><b> ShowLeaderLines:</b> [Boolean]</p>
+<p><b> ShowLegendKey:</b> [Boolean]</p>
+<p><b> Separator:</b> [String]</p>
+<p><b> LabelPosition:</b> [Label Position Type]</p>
 </blockquote>
