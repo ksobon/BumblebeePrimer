@@ -15,6 +15,8 @@
 <p><b> LabelPosition:</b> [Label Position Type] Use Label Position Types to define a location for labels.</p>
 </blockquote>
 
+
 #### 2.6.1 Example of a chart with labels set to Best Fit:
+
 
 ![](charts_08.png)
