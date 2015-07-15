@@ -1,6 +1,6 @@
 ### 2.7.0 Define Chart Style
 
-![](borderStyle.png)
+
 
 <blockquote>
 <p><b> LineType:</b> [Line Type] If you wish to define a line type different than a solid use this input to do so.</p>
