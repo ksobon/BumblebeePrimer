@@ -35,3 +35,6 @@ If you however, decided that legend is what you want, you have a few options her
 
 Of course you can also add Fill and Border Styles to create this god awful look with a little frame around your legend. Feel free to do that as well if your heart desires so. 
 
+#### 4.1.4 Chart Styling
+
+![](charts_04-01.png)
