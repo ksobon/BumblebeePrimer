@@ -27,3 +27,4 @@ Pie Charts have a handful of parts that can be individually formatted with some 
 
 ![](charts_03-01.png)
 
+![](charts_04.png)
