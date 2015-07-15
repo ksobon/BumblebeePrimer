@@ -17,7 +17,7 @@
    * [Top/Bottom Percentile](360_top_bottom_percentile.md)
    * [Data Bar](370_data_bar.md)
 * [Charts](400_charts.md)
-   * Pie Chart
+   * [Pie Chart](410_pie_chart.md)
 * [Extras](400_extras.md)
    * [Search Value Get Row](410_search_value_get_row.md)
    * [Clear Contents](420 clear_contents.md)
