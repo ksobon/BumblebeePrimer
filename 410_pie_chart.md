@@ -2,7 +2,7 @@
 
 Pie Charts are some of the most useful and easy to understand charts available to us in Excel. They are also one of the simpler charts that you can generate using Excel. That's because they can really display a single range of data at a time. Even though you can use them to generate data for 2D Arrays, you can only show one of them at a time, so its kind of limited. Keep that in mind when dealing with charts.
 
-![](charts_01.png)
+
 
 ### 4.1.1 Defining Pie Chart Inputs
 
