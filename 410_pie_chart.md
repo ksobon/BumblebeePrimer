@@ -28,3 +28,10 @@ Pie Charts have a handful of parts that can be individually formatted with some 
 ![](charts_03-01.png)
 
 ![](charts_04.png)
+
+First and foremost, if you DO NOT supply a Legend Style to Pie Chart node, it will result in a chart without a legend. 
+
+If you however, decided that legend is what you want, you have a few options here. I personally like to adjust Text Style to make sure that the fond is exactly what I like. Then you can pick a Legend Position, and there are basically (4) options to choose from: Left, Top, Right and Bottom. If you do not specify any of these inputs they will be assigned automatically by Excel. Last thing that I define here is Legend Labels. By default they will be just a series of numbers, but you can use a Range to define custom names for each legend item. 
+
+Of course you can also add Fill and Border Styles to create this god awful look with a little frame around your legend. Feel free to do that as well if your heart desires so. 
+
