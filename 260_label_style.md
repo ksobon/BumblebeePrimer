@@ -4,7 +4,7 @@
 
 <blockquote>
 <p><b> FillStyle:</b> [Fill Style] [See Fill Style section for more details.](http://konradsobon.gitbooks.io/bumblebee-primer/content/210_fill_style.html)</p>
-<p><b> TextStyle:</b> [Text Style]</p>
+<p><b> TextStyle:</b> [Text Style] [Text Style] [See Text Style section for more details.](http://konradsobon.gitbooks.io/bumblebee-primer/content/220_text_style.html)</p>
 <p><b> BorderStyle:</b> [Border Style]</p>
 <p><b> ShowSeriesName:</b> [Boolean]</p>
 <p><b> ShowValue:</b> [Boolean]</p>
