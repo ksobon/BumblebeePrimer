@@ -9,23 +9,14 @@ Pie Charts are some of the most useful and easy to understand charts available t
 <blockquote>
 
 <p><b>RunIt:</b> [Boolean] Set this input to True to enable this node.</p>
-
 <p><b>SheetName:</b> [String] Name of the Excel Worksheet that you want to place/update the chart on.</p>
-
-<p><b>SizeRange:</b> [String] </p>
-
-<p><b>Title:</b> [String]  </p>
-
-<p><b>DataRange:</b> [String] </p>
-
-<p><b>PieChartType:</b> [Pie Chart Type] </p>
-
-<p><b>LegendStyle:</b> [Legend Style] </p>
-
-<p><b>ChartStyle:</b> [Chart Style]  </p>
-
-<p><b>GraphStyle:</b> [Graph Style]  </p>
-
+<p><b>SizeRange:</b> [String] </p> Use this input to define a range in Excel that chart will be scaled to fit. Typical Excel syntax applies where range is defined like so: "A1:D11".
+<p><b>Title:</b> [String]  This will be the text in the title on top of the chart.</p>
+<p><b>DataRange:</b> [String] Use this input to define a range in Excel that chart will get its data source from. Charts can only be applied to numbers so keep that in mind.</p>
+<p><b>PieChartType:</b> [Pie Chart Type] This can be one of the available outputs from Pie Chart Types node.</p>
+<p><b>LegendStyle:</b> [Legend Style] Use this input to specify Legend formatting options.</p>
+<p><b>ChartStyle:</b> [Chart Style]  Use this input to specify Chart formatting options.</p>
+<p><b>GraphStyle:</b> [Graph Style]  Use this input to specify Graph formatting options.</p>
 </blockquote>
 
 ### 4.1.2 Defining Pie Chart Inputs
