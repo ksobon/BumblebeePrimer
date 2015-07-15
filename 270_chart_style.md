@@ -9,6 +9,6 @@
 <p><b> RoundedCorners:</b> [Boolean] If this input is set to True AND Border Style is supplied it will make the border around chart have rounded corners.</p>
 </blockquote>
 
-Example of pie chart with Border and RoundedCorners defined:
+#### 2.7.1 Example of pie chart with Border and RoundedCorners defined:
 
 ![](charts_05-01.png)
